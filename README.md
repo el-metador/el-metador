@@ -1,6 +1,11 @@
-# 💫 About Me:
-I’m an AI-focused systems explorer driven by deep curiosity and hands-on experimentation. I work primarily with large language models, generative AI (text, image, and video), and automation, learning fast by building, breaking, and rebuilding real systems until I understand how they work under the hood.<br><br>I’m largely self-taught and strongly experiment-driven. Instead of staying at the theory level, I test tools in practice, explore local and cloud AI setups, integrate APIs, and combine multiple technologies into end-to-end workflows. I’m especially interested in how modern AI models can be deployed, optimized, and used in real products rather than demos.<br><br>My strengths are rapid learning, systems thinking, and technical experimentation. I communicate clearly and directly, prefer structured and async workflows, and focus on logic, precision, and practical results. I’m a night owl by nature and comfortable spending long sessions researching, reading technical material, and experimenting with new tools.<br><br>Technically, I work across AI & machine learning (LLMs, prompt engineering, model evaluation, local deployment), backend and systems (Python, APIs, automation, CLI tools), DevOps and infrastructure basics (Linux, Docker fundamentals, environment setup, cloud vs local tradeoffs), and research/experimentation (rapid prototyping, tool evaluation, workflow reverse-engineering).<br><br>What drives me is the need to understand how systems really work and the challenge of turning cutting-edge AI capabilities into functional, real-world systems. My biggest flex is the ability to go from zero to a working setup quickly by diving deep, learning fast, and executing without overthinking.
+## Salaam👋
+I’m Jesqman, just starting my journey in the IT world. I’m actively learning Python, React, JavaScript, and other popular languages.
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python, react, linux, js, django" />
+  </a>
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jesqman) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jesqman) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jesqman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sendtukhliev@gmail.com) 
